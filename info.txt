@@ -1,0 +1,4 @@
+username: samadmemon991
+email:samadmemon991@gmail.com
+phone:123123
+device:abc123
